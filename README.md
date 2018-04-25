@@ -8,3 +8,4 @@ Git and Github
 SSH
 Python
 Lambda
+AWS
