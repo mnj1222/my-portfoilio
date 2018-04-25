@@ -6,3 +6,4 @@ This is my professional portfolio using AWS and ReactJS.
 Brew
 Git and Github
 SSH
+Python
