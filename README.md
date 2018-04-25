@@ -7,3 +7,4 @@ Brew
 Git and Github
 SSH
 Python
+Lambda
