@@ -9,3 +9,7 @@ SSH
 Python
 Lambda
 AWS
+HTML
+CSS
+Font Awesome
+Google Fonts
